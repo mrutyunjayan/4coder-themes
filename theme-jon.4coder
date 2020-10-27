@@ -1,3 +1,4 @@
+//Created by JaiJaiGames
 
 defcolor_back = 0xFF042328;
 defcolor_margin = defcolor_back;
@@ -35,12 +36,12 @@ defcolor_highlight_white = 0xff003a3a;
 
 defcolor_bar = 0xFFD6B58B;
 defcolor_bar_active = defcolor_back;
-defcolor_base = 0xFF000000;
+defcolor_base = defcolor_back;
 defcolor_pop1 = 0xFFC6E5F7;
 defcolor_pop2 = 0xFFFF5256;
 
 defcolor_back_cycle = {0x14000000, 0x23000000, 0x32000000, 0x41000000};
 defcolor_text_cycle = {0xFF86FF5D, 0xFF86FFFF, 0xFFFFFF8D, 0xFFFF79AA};
 
-defcolor_line_numbers_back = 0xFF101010;
-defcolor_line_numbers_text = 0xFF404040;
+defcolor_line_numbers_back = 0x14000000;
+defcolor_line_numbers_text = 0x41FFFFFF;
