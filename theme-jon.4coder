@@ -1,4 +1,5 @@
 //Created by JaiJaiGames
+//0xFFff3377 
 
 defcolor_back = 0xFF042328;
 defcolor_margin = defcolor_back;
@@ -15,7 +16,8 @@ defcolor_mark = 0xFF87DF94;
 defcolor_text_default = 0xFFCCBEA4;
 defcolor_at_highlight = defcolor_mark;
 defcolor_comment = 0xFF4EBD47;
-defcolor_comment_pop = {0xFFE4D768, 0xFFFF5256};
+defcolor_comment_pop = {0xFFB2A256, 0xFF239696};
+defcolor_study = 0xFF0000FF;
 defcolor_keyword = 0xFFF9FFFA;
 defcolor_str_constant = 0xFF4DBFB8;
 defcolor_char_constant = defcolor_str_constant;
@@ -31,8 +33,8 @@ defcolor_paste = 0xFFDDEE00;
 
 defcolor_undo = 0x77333333;
 
-defcolor_highlight_junk = 0xff3a0000;
-defcolor_highlight_white = 0xff003a3a;
+defcolor_highlight_junk = 0xFF3A0000;
+defcolor_highlight_white = 0xFF003A3A;
 
 defcolor_bar = 0xFFD6B58B;
 defcolor_bar_active = defcolor_back;
@@ -45,3 +47,8 @@ defcolor_text_cycle = {0xFF86FF5D, 0xFF86FFFF, 0xFFFFFF8D, 0xFFFF79AA};
 
 defcolor_line_numbers_back = 0x14000000;
 defcolor_line_numbers_text = 0x41FFFFFF;
+
+primitive_highlight_type = 0xFFABECC3;
+primitive_highlight_function = 0xFFF9FFFA;
+primitive_highlight_macro = 0xFFABECC3;
+primitive_highlight_4coder_command = 0xFFFFFFFF;
