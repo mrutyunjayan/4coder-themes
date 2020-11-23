@@ -48,7 +48,10 @@ defcolor_text_cycle = {0xFF86FF5D, 0xFF86FFFF, 0xFFFFFF8D, 0xFFFF79AA};
 defcolor_line_numbers_back = 0x14000000;
 defcolor_line_numbers_text = 0x41FFFFFF;
 
-primitive_highlight_type = 0xFFABECC3;
+primitive_highlight_type = 0xFF8BDC97;
 primitive_highlight_function = 0xFFF9FFFA;
-primitive_highlight_macro = 0xFFABECC3;
+primitive_highlight_macro = 0xFF8BDC97;
 primitive_highlight_4coder_command = 0xFFFFFFFF;
+
+primitive_highlight_opertor = 0xFFE57988;
+primitive_highlight_opertor_alt = 0xFF7E7A30;
