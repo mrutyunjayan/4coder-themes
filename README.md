@@ -1,2 +1,3 @@
 # 4coder-jons-theme
-4coder theme inspired by the Jon Blow's emacs theme
+1. 4coder theme inspired by the Jon Blow's emacs theme
+2. 4coder interpretation of the Dracula Theme
