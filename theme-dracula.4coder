@@ -38,9 +38,9 @@ defcolor_highlight_white = 0xFF003A3A;
 
 defcolor_bar = defcolor_back;
 defcolor_bar_active = 0xFF6272a4;
-defcolor_base = 0xFFf8f8f2;
-defcolor_pop1 = 0xFF50fa7b;
+defcolor_base = 0xFF50fa7b;
 defcolor_pop2 = 0xFF50fa7b;
+defcolor_pop1 = defcolor_comment;//0xFFff79c6;
 
 defcolor_back_cycle = {0x14000000, 0x23000000, 0x32000000, 0x41000000};
 defcolor_text_cycle = {0xFF86FF5D, 0xFF86FFFF, 0xFFFFFF8D, 0xFFFF79AA};
